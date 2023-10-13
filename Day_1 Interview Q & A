@@ -1,0 +1,100 @@
+1. Mention the differences between Data Mining and Data Profiling?
+Ans:
+Data Mining
+     ||
+Finding patterns
+     ||
+data for predictions.
+
+
+Data Profiling
+     ||
+Assessing data quality 
+     ||
+characteristics.
+
+2. Define the term 'Data Wrangling in Data Analytics.
+Ans:
+Data Wrangling
+     ||
+Preparing raw data
+     ||
+for analysis
+     ||
+Like cleaning, structuring, and transforming
+
+
+3. What are the various steps involved in any analytics project?
+Ans:
+* Understanding the Problem
+* Collecting Data
+* Cleaning Data
+* Exploring and Analyzing Data
+* Interpreting the Results
+
+4. What are the common problems that data analysts encounter during analysis?
+Ans:
+* Handling duplicate
+* Collecting  meaningful right data , the right time
+* Handling data  unnecessary data, and storage problems
+* Making data secure , dealing with compliance issues
+
+5. Which are the technical tools that you have used for analysis and presentation purposes?
+Ans:
+I have experience  tools 
+    ||
+Excel, Python, SQL for data analysis,
+    ||
+ presentation purposes,I used PowerPoint
+    ||
+ Google Slides,  Canva  visually appealing presentations
+
+6. What are the best methods for data cleaning?
+Ans:
+--> The best methods for data cleaning , 
+--> handling missing data,
+--> removing duplicates, standardizing data formats, 
+--> detecting and correcting outliers,
+
+7. What is the significance of Exploratory Data Analysis (EDA)?
+Ans:
+--> analysts spot patterns, 
+--> find mistakes, choose important data, 
+--> ensure data quality,
+--> make smart decisions using  insights  discover
+8. Explain descriptive, predictive, and prescriptive analytics.
+Ans:
+--> Descriptive tells what happened, 
+--> predictive predicts the future, 
+--> prescriptive advises what to do. 
+
+Descriptive  about past
+     ||
+predictive about future
+     ||
+prescriptive guides decisions  better outcomes
+
+9. What are the different types of sampling techniques used by data analysts?
+Ans:
+--> random sampling - fairness,
+--> stratified sampling - diverse groups, 
+--> systematic sampling - order, 
+--> cluster sampling - specific areas, 
+--> convenience sampling - simplicity,
+--> snowball sampling - social connections.
+
+10. Describe univariate, bivariate, and multivariate analysis?
+Ans:
+--> Univariate Analysis
+      ||
+data being analyzed contains only one variable. 
+
+--> Bivariate analysis
+      ||
+ analysis  two variables  find causes
+      ||
+relationships,correlations between  variables. 
+
+
+Refer Link 10 Q & A
+https://www.simplilearn.com/tutorials/data-analytics-tutorial/data-analyst-interview-questions
